@@ -2,6 +2,6 @@
 
 ![imagen durisima](image2.jpg)
 
-![video durisimo](sans.gif)
+![video durisimo](calavera.gif)
 
 ![imagen durisima](image.jpg)
